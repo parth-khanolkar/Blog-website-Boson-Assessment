@@ -45,7 +45,7 @@ To run the blog website locally, follow these steps:
 3. Create a `.env` file in the `backend` directory and add the following environment variables:
 
    ```
-   CONNECTION_URL =< your-mongodb-connection-string>
+   CONNECTION_URL = <your-mongodb-connection-string>
    ```
 
 4. Start the backend server by running the following command:
