@@ -3,6 +3,9 @@
 Blog-o-Sphere is an assesssment test given by BOSON TECH to test full-stack proficiency. The website uses the MERN (MongoDB, Express.js, React, Node.js) stack to run a blogging wesbite with user authentication using jwt token. 
 
 The blog website allows users to create, read, update, and delete blog posts. By utilizing the power of the MERN stack, this project demonstrates my proficiency in both front-end and back-end development. I have worked with React for the front-end user interface, Express.js for the back-end server, and MongoDB as the database to store the blog post data.
+## Demo
+
+https://github.com/parth-khanolkar/Blog-website-Boson-Assessment/assets/75361189/31f5e929-d9b7-41dc-9cfe-7e6f060a8056
 
 
 ## Prerequisites
@@ -15,6 +18,9 @@ Before running the project, make sure you have the following software installed:
 ## Getting Started
 
 To run the blog website locally, follow these steps:
+
+
+
 
 1. Clone the repository to your local machine using the following command:
 
